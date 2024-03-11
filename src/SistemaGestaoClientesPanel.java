@@ -88,8 +88,6 @@ public class SistemaGestaoClientesPanel extends JPanel {
             resultadoLabel.setText("Cliente não encontrado");
         }
 
-        resultadoLabel.setText("Cliente não encontrado");
-
     }
 
     private void mostrarListaContatos(List<Cliente> contatos) {
